@@ -2,6 +2,7 @@
 
 ### Firebase Social Media App
 - This project is a social media platform implemented using Firebase.
+- [YHJ 𝕏 접속 링크](https://yeohj0710x.web.app/) (https://yeohj0710x.web.app/)
 
 <br>
 
